@@ -6,5 +6,3 @@
  
 # Dataset
 The original datasets can be found at IEMOCAP and MELD.
-
-In this work, we focus on ERC under a multimodal setting. Following MMGCN, raw utterance-level features of textual, acoustic, and visual modality are extracted by TextCNN, OpenSmile, and DenseNet, respectively.
